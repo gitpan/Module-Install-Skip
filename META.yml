@@ -1,0 +1,10 @@
+name: Module-Install-Skip
+version: 0.01
+abstract: Module::Install extension that allow skip files with regexp
+author: Ruslan U. Zakirov <cubic@wildgate.miee.ru>
+license: perl
+distribution_type: module
+no_index:
+  directory:
+    - inc
+generated_by: Module::Install version 0.35
